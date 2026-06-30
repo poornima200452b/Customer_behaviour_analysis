@@ -1,4 +1,4 @@
-# Retail Transactions Data Analytics Project
+# Customer Shopping Behaviour Data Analyst Project
 
 ## Overview
 
