@@ -4,7 +4,7 @@
 
 This project demonstrates an end-to-end Data Analytics workflow using Python, PostgreSQL, and Power BI. The objective is to transform raw retail transaction data into meaningful business insights through data cleaning, exploratory data analysis (EDA), SQL analysis, and interactive dashboards.
 
-The project covers the complete analytics lifecycle, from loading raw data to presenting insights in a professional report and presentation.
+The project covers the complete analytics lifecycle, from loading raw data to presenting insights.
 
 ---
 
@@ -89,13 +89,6 @@ Designed an interactive dashboard containing:
 - Payment Method Distribution
 - Interactive Filters
 
-### 6. Reporting
-
-Prepared:
-
-- Business Insights Report
-- Power BI Dashboard
-- Project Presentation using Gamma
 
 ---
 
@@ -135,8 +128,7 @@ The analysis helped identify:
 - Power BI Dashboard Development
 - Business Analytics
 - KPI Analysis
-- Reporting
-- Data Storytelling
+
 
 
 ## Author
